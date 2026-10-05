@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/client.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/productStrategy.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/gameplay/view.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/concreteStrategies/ruleBased.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/concreteStrategies/heuristic.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/concreteStrategies/miniMax.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/gameplay/inputOutput.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/gameplay/contextAI.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/gameplay/board.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/creator.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/creators/ruleBasedCreator.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/creators/miniMaxCreator.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/strategies/creators/heuristicCreator.java</file>
+            <file>file:/C:/Users/johns/Documents/NetBeansProjects/dp210090/src/gameplay/controller.java</file>
+        </group>
+    </open-files>
+</project-private>
